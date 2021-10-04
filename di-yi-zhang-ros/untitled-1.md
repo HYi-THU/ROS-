@@ -2,7 +2,7 @@
 
 **1. 4. 1 ROS文件系统**
 
-![img](file://C:\Users\lhy39\OneDrive\SLAM\typora_pic\%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F.jpg?lastModify=1633347513)
+![](../.gitbook/assets/image%20%281%29.png)
 
 * build：编译空间，用于存放CMake和catkin的缓存信息、配置信息和其他中间文件。
 * devle：开发空间，用于存放编译后生成的目标文件，包括头文件、动态&静态链接库、可执行文件等。
